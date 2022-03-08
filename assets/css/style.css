@@ -28,6 +28,7 @@ main {
 }
 
 nav {
+    width: 100%;
     background-color: beige;
     padding: 10px;
 }
@@ -61,6 +62,10 @@ nav a:hover {
 #banner img {
     width: 60%;
     height: auto;
+}
+
+#closed{
+    width: 100%;
 }
 
 .service {
